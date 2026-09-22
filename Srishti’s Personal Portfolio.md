@@ -1,5 +1,68 @@
 **Srishti’s Personal Portfolio**
+HERO CARDS
 
+
+
+🚀 Hero Cards
+🌍 Global Impact
+
+20+ Tier-1 Global Banks Managing strategic relationships across EMEA & North America.
+
+⚡ Execution Engine
+
+150+ Initiatives Delivered From migrations and infrastructure modernization to large-scale transformation programs.
+
+🎯 Trusted Under Pressure
+
+30+ Critical Escalations Led Turning high-pressure situations into measurable outcomes.
+
+🤖 Automation Obsessed
+
+80%+ Manual Effort Eliminated Building systems so teams can focus on what matters.
+
+🏦 Financial Markets Specialist
+
+Fixed Income • Repo • Equities Bridging technology and capital markets.
+
+🌐 International Exposure
+
+Represented ION in London Leading executive workshops and client engagements
+-------------------------------------------------------------
+**Video Introduction**
+
+Hi, I'm Srishti.
+
+Three years ago, I thought success was about having the right answers.
+
+What I didn't realize was that most of the really interesting problems don't come with answers at all.
+
+They arrive as tight deadlines, competing priorities, unexpected escalations, and a room full of people looking at each other wondering what happens next.
+
+Over the last few years, I've had the chance to work with global banks, lead transformation projects, build automation platforms, and designed AI-powered systems.
+
+But the biggest lesson wasn't technical.
+
+It was learning how to create clarity when there isn't any.
+
+I've learned that stakeholders don't need more information. They need direction.
+
+Teams don't struggle because they lack talent. They struggle when complexity hides the path forward.
+
+And technology only creates value when it helps people make better decisions.
+
+What I bring to the table is a mix of structured thinking, technical curiosity, and a willingness to dive into messy problems until they become manageable.
+
+Whether it's a product strategy conversation, a transformation programme, a high-stakes project, a client escalation, or an AI workflow that doesn't exist yet,
+
+I enjoy figuring things out.
+
+This website is a collection of those lessons.
+
+Not just what I've built, but how I've learned to think.
+
+And hopefully, where I'm headed next.
+
+--------------------------------------------------------------------------
 
 Tag Line 
 
